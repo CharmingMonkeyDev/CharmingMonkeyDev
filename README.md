@@ -1,6 +1,8 @@
 <h3 align="center">Senior Software Developer | 13+ Years of Experience | Expert in Full-Stack Development, AI, Cloud Solutions, Scalable Applications</h3>
+
 # 💫 About Me:
-🔭 I’m currently working on financial analytics platform..
+
+<br>🔭 I’m currently working on financial analytics platform..
 <br>🌱 I’m currently learning Go, Rust<br><br>💬 Ask me about Python, AI, Flask, Spring boot, Django, React, Next.js,<br>
 
 - While hiking through challenging trails, I contemplated quitting more times than I can count.
