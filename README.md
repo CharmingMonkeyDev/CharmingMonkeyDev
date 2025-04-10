@@ -1,7 +1,7 @@
-<h3 align="center">Senior Software Developer | 13+ Years of Experience | Expert in Full-Stack Development, AI, Cloud Solutions, Scalable Applications</h3>
+<h3 align="center">Senior Software Developer | 9+ Years of Experience | Expert in Full-Stack Development, AI, Cloud Solutions, Scalable Applications</h3>
 # 💫 About Me:
 🔭 I’m currently working on financial analytics platform..
-<br>🌱 I’m currently learning Go, Rust<br><br>💬 Ask me about Python, AI, Flask, Spring boot, Django, React, Next.js,<br><br>📫 How to reach me wesleyleck2@gmail.com
+<br>🌱 I’m currently learning Go, Rust<br><br>💬 Ask me about Python, AI, Flask, Spring boot, Django, React, Next.js,<br><br>📫 How to reach me Sandrosouuza18@gmail.com
 
 
 ## 🌐 Socials:
